@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./src/css/reset.css">
     <link rel="stylesheet" href="./src/css/style.css">
     <script defer src="./src/script/script.js"></script>
+    <link rel="shortcut icon" href="./src/gfx/favicon.png"/>
 </head>
 <body>
 
