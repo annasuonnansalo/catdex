@@ -38,6 +38,11 @@
             <h2>Russian Blue</h2>
             <p>The Russian Blue is a cat breed that comes in colors varying from a light shimmering silver to a darker, slate grey. Their short, dense coat has been the hallmark of the Russian breed for more than a century.</p>
         </a>
+        <a href="">
+            <picture style="background-image: url('./lib/"></picture>
+            <h2>Siamese</h2>
+            <p>The Siamese cat is one of the first distinctly recognized breeds of Asian cat. Derived from the Wichianmat landrace, one of several varieties of cat native to China.</p>
+        </a>
     </section>
 
     <nav class="feature">
