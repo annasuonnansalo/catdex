@@ -2,7 +2,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Catdex</title>
+    <title>CatDex</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Baloo+Thambi+2&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap">
     <link rel="stylesheet" href="./src/css/reset.css">
