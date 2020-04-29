@@ -25,3 +25,53 @@ a {
     color: inherit;
     text-decoration: none;
 }
+
+
+/* layout */
+
+body {
+    display: flex;
+    flex-flow: column;
+}
+header {
+    background: #ffa69e;
+    font-family: 'Quicksand';
+    font-size: 32px;
+    font-weight: bolder;
+    color: #faf8f1;
+    height: 64px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main {
+    flex: 1;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+footer {
+    position: relative;
+    background: #5E6472;
+    font-size: 12px;
+    color: white;
+    height: 32px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+footer::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: calc((50vw - 50%) * -1);
+    z-index: -1;
+    background: inherit;
+    width: 100vw;
+    height: 100%;
+}
