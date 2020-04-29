@@ -1,0 +1,27 @@
+/* typography */
+
+body {
+    font-family: 'Baloo Thambi 2';
+    color: #041f1e;
+}
+h1, 
+h2, 
+h3 {
+    font-family: 'Quicksand';
+}
+h1 {
+    font-size: 24px;
+}
+h2 {
+    font-size: 18px;
+}
+h3 {
+    font-size: 16px;
+}
+p {
+    font-size: 14px;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
