@@ -12,5 +12,5 @@
 <body>
 
 <header>
-    <a href="">Catdex</a>
+    <a href="">CatDex</a>
 </header>
