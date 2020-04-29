@@ -27,6 +27,16 @@ a {
 }
 
 
+/* component */
+
+picture {
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
 /* layout */
 
 body {
@@ -74,4 +84,37 @@ footer::before {
     background: inherit;
     width: 100vw;
     height: 100%;
+}
+
+
+/* module */
+
+section.grid {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -12px;
+}
+section.grid a {
+    display: block;
+    width: calc(25% - 24px);
+    margin: 0 12px;
+}
+section.grid a:not(:nth-child(-n+4)) {
+    margin-top: 24px;
+}
+
+nav.feature {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0 -12px;
+}
+nav.feature a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: calc(33.333% - 24px);
+    height: 64px;
+    margin: 0 12px;
+    background: red;
 }
