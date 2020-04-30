@@ -185,12 +185,21 @@ nav.feature a {
     align-items: center;
     width: calc(33.333% - 24px);
     height: 96px;
-    margin: 12px;
+    margin: 0 12px;
+    border-radius: 4px;
     color: white;
     background-color: #ffa69e;
+    transition: transform 300ms ease, box-shadow 300ms ease;
+}
+nav.feature a:hover {
+    transform: scale(1.025);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.125);
 }
 @media (max-width: 768px) {
     nav.feature a {
         width: calc(100% - 24px);
+    }
+    nav.feature a:not(:last-child) {
+        margin-bottom: 12px;
     }
 }
