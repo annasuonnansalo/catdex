@@ -2,12 +2,13 @@
 
 body {
     font-family: 'Baloo Thambi 2';
-    color: #041f1e;
+    color: #444444;
 }
 h1, 
 h2, 
 h3 {
     font-family: 'Quicksand';
+    color: #111111;
 }
 h1 {
     font-size: 24px;
@@ -61,8 +62,15 @@ header {
     align-items: center;
     justify-content: center;
 }
+@media (max-width: 768px) {
+    header {
+        font-size: 24px;
+        height: 48px;
+    }
+}
 main {
     flex: 1;
+    padding: 0 20px;
     max-width: 1280px;
     margin: 0 auto;
 }
@@ -72,6 +80,7 @@ footer {
     font-size: 12px;
     color: white;
     height: 32px;
+    padding: 0 20px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -104,13 +113,50 @@ section.grid {
     flex-wrap: wrap;
     margin: 32px -12px;
 }
+@media (max-width: 768px) {
+    section.grid {
+        margin: 24px -12px;
+    }
+}
 section.grid a {
     display: block;
     width: calc(25% - 24px);
     margin: 0 12px;
 }
-section.grid a:not(:nth-child(-n+4)) {
-    margin-top: 24px;
+@media (max-width: 1024px) {
+    section.grid a {
+        width: calc(33.333% - 24px);
+    }
+}
+@media (max-width: 768px) {
+    section.grid a {
+        width: calc(50% - 24px);
+    }
+}
+@media (max-width: 420px) {
+    section.grid a {
+        width: calc(100% - 24px);
+    }
+}
+@media (min-width: 1024px) {
+    section.grid a:not(:nth-child(-n+4)) {
+        margin-top: 24px;
+    }
+}
+@media (max-width: 1024px) and (min-width: 768px) {
+    section.grid a:not(:nth-child(-n+3)) {
+        margin-top: 24px;
+    }
+}
+@media (max-width: 768px) and (min-width: 420px) {
+    section.grid a:not(:nth-child(-n+2)) {
+        margin-top: 24px;
+    }
+}
+@media (max-width: 420px) {
+    section.grid a:not(:first-child) {
+        margin-top: 24px;
+    }
 }
 section.grid picture {
     background-color: #f1f2f3;
@@ -125,14 +171,26 @@ nav.feature {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    margin: 48px -12px;
+    margin: 48px -12px 32px;
+}
+@media (max-width: 768px) {
+    nav.feature {
+        margin: 32px -12px 24px;
+    }
 }
 nav.feature a {
+    font-size: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
     width: calc(33.333% - 24px);
     height: 96px;
-    margin: 0 12px;
-    background: red;
+    margin: 12px;
+    color: white;
+    background-color: #ffa69e;
+}
+@media (max-width: 768px) {
+    nav.feature a {
+        width: calc(100% - 24px);
+    }
 }
