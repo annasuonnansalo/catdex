@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Baloo Thambi 2';
-    color: #444444;
+    color: #555555;
 }
 h1, 
 h2, 
@@ -51,7 +51,7 @@ body {
     flex-flow: column;
 }
 header {
-    background: #ffa69e;
+    background: #ffb69e;
     font-family: 'Quicksand';
     font-size: 32px;
     font-weight: bolder;
@@ -71,6 +71,7 @@ header {
 main {
     flex: 1;
     padding: 0 20px;
+    width: 100%;
     max-width: 1280px;
     margin: 0 auto;
 }
@@ -188,7 +189,7 @@ nav.feature a {
     margin: 0 12px;
     border-radius: 4px;
     color: white;
-    background-color: #ffa69e;
+    background-color: #ffb69e;
     transition: transform 300ms ease, box-shadow 300ms ease;
 }
 nav.feature a:hover {
@@ -202,4 +203,19 @@ nav.feature a:hover {
     nav.feature a:not(:last-child) {
         margin-bottom: 12px;
     }
+}
+
+section.content {
+    max-width: 1280px;
+    padding: 16px;
+    margin: 0 auto;
+}
+section.content.attribute {
+    background-color:#ffb69e;
+}
+section.content.attribute ul {
+    list-style: none;
+}
+section.content.trait tr:nth-child(odd) {
+    background-color: #ffefea;
 }
