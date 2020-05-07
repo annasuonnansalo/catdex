@@ -13,5 +13,5 @@
 <body>
 
 <header>
-    <a href="">CatDex</a>
+    <a href="./">CatDex</a>
 </header>
