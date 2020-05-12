@@ -2,5 +2,88 @@
     "key": "norwegian",
     "uri": "norwegian-forest-cat",
     "name":"Norwegian Forest cat",
-    "extract":"Norwegian Forest cat breed is adapted to a very cold climate, with a top coat of glossy, long, water-shedding hairs and a woolly undercoat for insulation."
+    "extract":"Norwegian Forest cat breed is adapted to a very cold climate, with a top coat of glossy, long, water-shedding hairs and a woolly undercoat for insulation.",
+    "attribute": [
+        {
+            "name": "Weight",
+            "text": "Between 13 and 20 pounds"
+        },
+        {
+            "name": "Lenght",
+            "text": "12 to 18 inches"
+        },
+        {
+            "name": "Coat" ,
+            "text": "Long double coat"
+        },
+        {
+            "name": "Coat Colours",
+            "text": "Ranges from white, black, red, cream, tabby to cinnamon"
+        },
+        {
+            "name": "Eye Colour",
+            "text": "Green, gold, or gold-green"
+        },
+        {
+            "name": "Life Expectancy",
+            "text": "14 to 16 years"
+        }
+    ],
+    "trait": [
+        {
+            "name": "Affection Level",
+            "text": "Medium"
+        },
+        {
+            "name": "Friendliness",
+            "text": "Medium"
+        },
+        {
+            "name": "Energy level",
+            "text": "High"
+        },
+        {
+            "name": "Playfulness",
+            "text": "High"
+        },
+        {
+            "name": "Intelligence",
+            "text": "High"
+        },
+        {
+            "name": "Tentency to Vocalise",
+            "text": "Low"
+        },
+        {
+            "name": "Exercise Needs",
+            "text": "Medium"
+        }
+    ],
+    "article": [
+        {
+            "name": "The Breed",
+            "text": "The Norwegian forest cat, also commonly called a 'wegie' for short, was believed to be the cat of the Vikings. Its history can be traced back to Norse lore. It is known to bear a striking resemblance to a Maine coon cat. \nIt is both independent and an affectionate member of the family that loves attention but does not demand it. It is suited to being a playful, indoor cat. A bit more independent than a lap cat, you can still expect a Norwegian forest cat to share a loving purr and the press of its head against your hand. Although, this may be one of the few times you will hear from your wegie, as they do not vocalize as often as other cats."
+        },
+        {
+            "name": "History",
+            "text": "The Norwegian forest cat is the official cat of Norway. The wegie arrived in Norway hundreds, and perhaps even thousands of years ago. Some believe Turkish traders brought their favorite cat up north with them when they came to trade, while others believe the cat was one of the many treasures brought back during the Crusades.\nCalled 'skogkatt' in Norwegian, which translates to 'forest cat,' this breed is a favorite animal among Norse mythology and tales. The goddess Freyja was said to have the giant cats pulling her chariot into battle. Thor once lost a contest of strength to Loki's son, Jormundgand, who was disguised as a forest cat at the time.\nA natural breed, wegies are long-haired, have inverted triangular heads, and almond-shaped eyes. They are bigger than most house cats; males grow significantly larger than females. While the Norwegian forest cat sports a double coat that offers excellent protection in the winter, it is believed the breed may have obtained its distinctive double coat of long fur by mating with regional cats.\nThe Norwegian forest cat drew some attention in 1938 when it was exhibited at a cat show. The Norwegian Forest Cat Club was formed to help preserve the breed. Unfortunately, World War II interrupted its ascent to fame. The breed almost went extinct during the war due to crossbreeding. However, the Norwegian Forest Cat Club continued to work hard to save the breed. In 1977, the breed was registered with Europe’s Federation Internationale Feline, and a few years later, wegies began showing up in the United States."
+        },
+        {
+            "name": "Norwegian Forrest Cat Care",
+            "text": "The Norwegian forest cat has a double coat of long, water-resistant fur. It does not need to be washed except in special circumstances like exposure to filthy conditions or medical necessity.\nThis cat breed should have their coat combed through weekly with a stainless steel comb or slicker brush. It is common for this cat breed to shed one coat in the spring and one in the winter, at which time, their coat should be combed through two or three times a week.\nLike all cats, wegies need regular dental care. Brush its teeth at least once a week to help prevent periodontal disease. Cats also appreciate a clean litter box that is cleaned out several times a week. Once a week, wipe the corner of the Norwegian cat's eyes to clean it of any discharge. Use a new, clean cloth for each eye to avoid cross-contamination.\nTrue to their forest roots, they love to climb. The back of the sofa will just be the first step on wegie's journey to find out how high it can go in the house. Get a cat tower or tree for this cat to exercise its natural inclination to climb.\nThey were known as great mousers and helped protect barns and houses, even catching rides on Viking ships because of their hunting skills. As a high energy cat, you can give your cat exercise in the form of playing a fun game of chase the laser pointer.\nThis cat is not the most trainable cat; it would rank a 5 on a 10-point scale. This breed takes longer to mature—roughly five years. If kitten antics are bothersome to you, consider this when deciding whether a Norwegian forest cat is right for you.\nWegies can be shy around strangers but are generally easy-going. They are known for being great with kids and patient with other animals."
+        },
+        {
+            "name": "Health and Wellbeing",
+            "text": "The Norwegian forest cat is a natural breed and does not exhibit the health problems that sometimes pop up in mixed breeds. A DNA test at birth can let you know what diseases your kitten is at risk of getting. Norwegian forest cats are generally very healthy, but there are a few conditions that this breed seems prone to:\nGlycogen Storage Disease IV: This is a heritable condition that is often fatal. Fortunately, it is rare. Kittens are usually stillborn or die soon after birth, but it can present up to five months later.\nHip Dysplasia: While more common in dogs, this large cat may also be at risk for this disease. Hip dysplasia is hereditary, worsens over time, and leads to a cat who avoids jumping and slower movement.\nHypertrophic Cardiomyopathy: A common heart disease among cats, hypertrophic cardiomyopathy causes a thickening of the heart muscle. This condition is hereditary and is more common in mixed breeds."
+        }
+    ],
+    "extra": {
+        "name": "More Cat Breeds and Further Research",
+        "text": "Before bringing any cat home, it's important to do your research and ensure the breed is a fit for your family.\nIf you're interested in similar breeds, check out these felines:",
+        "cat": [
+            "norwegian", 
+            "russian", 
+            "ragdoll"
+        ]
+    }
 }

@@ -2,5 +2,88 @@
     "key": "russian",
     "uri": "russian-blue",
     "name":"Russian Blue",
-    "extract":"The Russian Blue is a cat breed that comes in colors varying from a light shimmering silver to a darker, slate grey. Their short, dense coat has been the hallmark of the Russian breed for more than a century."
+    "extract":"The Russian Blue is a cat breed that comes in colors varying from a light shimmering silver to a darker, slate grey. Their short, dense coat has been the hallmark of the Russian breed for more than a century.",
+    "attribute": [
+        {
+            "name": "Weight",
+            "text": "Between 7 and 12 pounds"
+        },
+        {
+            "name": "Lenght",
+            "text": "Around 2 feet"
+        },
+        {
+            "name": "Coat" ,
+            "text": "Short"
+        },
+        {
+            "name": "Coat Colours",
+            "text": "Blue"
+        },
+        {
+            "name": "Eye Colour",
+            "text": "Green"
+        },
+        {
+            "name": "Life Expectancy",
+            "text": "15 to 20 years"
+        }
+    ],
+    "trait": [
+        {
+            "name": "Affection Level",
+            "text": "High"
+        },
+        {
+            "name": "Friendliness",
+            "text": "Medium"
+        },
+        {
+            "name": "Energy level",
+            "text": "Medium"
+        },
+        {
+            "name": "Playfulness",
+            "text": "Medium"
+        },
+        {
+            "name": "Intelligence",
+            "text": "High"
+        },
+        {
+            "name": "Tentency to Vocalise",
+            "text": "Low"
+        },
+        {
+            "name": "Exercise Needs",
+            "text": "Medium"
+        }
+    ],
+    "article": [
+        {
+            "name": "The Breed",
+            "text": "As the breed’s name suggests, this cat comes from Russia and its coat is blue. Although the color might look gray, blue is a specialized term used to describe a specific color in some cats (and some dogs, too). In the pet world, blue is the dilute version of black. Although there are no exact dates when this breed came about, it is an older breed and one of the first recognized cat breeds. This breed is known for its love of playing fetch. Most Russian blues are great family members and get along well with other pets, even dogs, and are good with gentle children."
+        },
+        {
+            "name": "History",
+            "text": "Although the Russian blue’s exact origins are not known for certain, these cats were formerly called Archangel cats, since they came off of ships from Russia's Archangel Island or Arkhangelsk. This cat was favored by royals and preferred by the Russian czars.\nThese cats were shipped to many parts of Europe. Russian blues were among the contestants of the very first cat shows held in England in the 1880s. In the United States, the Russian blue is recognized by the Cat Fanciers’ Association and The International Cat Association."
+        },
+        {
+            "name": "Russian Blue Cat Care",
+            "text": "The Russian blue’s trademark coat is a shimmery blue with a silvery cast. The Russian blue cat’s short, dense, plush coat is wonderfully easy to care for, requiring minimal grooming. Its coat naturally does not shed much. Occasional brushing will keep the coat soft and silky.\nEven more striking perhaps than the Russian blue’s coat is its large, almost round, wide-set, emerald-green eyes. The shape of the head and face gives the Russian blue a charming expression that makes it look like it is perpetually smiling.\nTrim your Russian blue’s nails regularly and check inside the ears for dirt and debris on a weekly basis. If you see a little debris in the ears, use a gentle pet ear cleaner to wipe them out with a cotton ball (never a cotton swab). If the ears look inflamed or excessively dirty, or your Russian blue is shaking its head or scratching its ears, schedule a checkup with your veterinarian.\nRussian blues are intelligent cats. They are entertaining and playful and can be trained to play fetch. Although not a talkative breed, they usually will respond when talked to and encouraged to talk. These graceful cats are gentle and sweet. The Russian Blue can appear to be shy around strangers, but they absolutely adore their people. If you are looking for a dog-like cat who will greet you at the door, follow you around the house, and sit next to you on the couch, the Russian blue meets these criteria.\nThe medium-sized Russian blue cat is fine-boned, elegant and slender, but also muscular. For exercise, make sure it has a cat scratching post for some necessary stretching. This breed can keep entertained and exercise on its own, which is great for families that maintain a busy lifestyle. Regulate weight by controlling the portions of cat food. If your cat starts to get pudgy, reduce the food given and talk to your veterinarian."
+        },
+        {
+            "name": "Health and Wellbeing",
+            "text": "Although some purebred cats are prone to certain hereditary diseases, the Russian blue is generally healthy with no known genetically linked disorders.\nThe breed enjoys a long life span, often living into the upper teens or longer. Work with your vet to make sure your Russian blue is up to date on its vaccines, annual exams, routine testing, and dental care."
+        }
+    ],
+    "extra": {
+        "name": "More Cat Breeds and Further Research",
+        "text": "Before bringing any cat home, it's important to do your research and ensure the breed is a fit for your family.\nIf you're interested in similar breeds, check out these felines:",
+        "cat": [
+            "norwegian", 
+            "russian", 
+            "ragdoll"
+        ]
+    }
 }

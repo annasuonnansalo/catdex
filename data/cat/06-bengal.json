@@ -2,5 +2,88 @@
     "key": "bengal",
     "uri": "bengal",
     "name":"Bengal",
-    "extract":"The Bengal cat is a domesticated breed created from hybrids of domestic cats, the Asian leopard cat and the Egyptian Mau, which gives them their golden shimmer."
+    "extract":"The Bengal cat is a domesticated breed created from hybrids of domestic cats, the Asian leopard cat and the Egyptian Mau, which gives them their golden shimmer.",
+    "attribute": [
+        {
+            "name": "Weight",
+            "text": "Between 8 and 15 pounds"
+        },
+        {
+            "name": "Lenght",
+            "text": "Around 1.5 feet"
+        },
+        {
+            "name": "Coat" ,
+            "text": "Most commonly short - long hair variant exists"
+        },
+        {
+            "name": "Coat Colours",
+            "text": "Spotted or marbled coats with patterns outlined in black, chocolate, or gray/silver"
+        },
+        {
+            "name": "Eye Colour",
+            "text": "Green or gold"
+        },
+        {
+            "name": "Life Expectancy",
+            "text": "10 to 16 years"
+        }
+    ],
+    "trait": [
+        {
+            "name": "Affection Level",
+            "text": "High"
+        },
+        {
+            "name": "Friendliness",
+            "text": "Medium"
+        },
+        {
+            "name": "Energy level",
+            "text": "High"
+        },
+        {
+            "name": "Playfulness",
+            "text": "High"
+        },
+        {
+            "name": "Intelligence",
+            "text": "High"
+        },
+        {
+            "name": "Tentency to Vocalise",
+            "text": "Medium"
+        },
+        {
+            "name": "Exercise Needs",
+            "text": "High"
+        }
+    ],
+    "article": [
+        {
+            "name": "The Breed",
+            "text": "Bengal cats are beautiful, smart, and wild-looking cats. This hybrid cat breed is growing in popularity due to its patterns and personalities, and it stays about the same size as a large domestic house cat. They were developed by breeding an Asian leopard cat (Felis bengalensis—which is where the name 'Bengal' was derived) with a domestic house cat such as an Abyssinian, Egyptian mau, or American shorthair."
+        },
+        {
+            "name": "History",
+            "text": "A Bengal cat is considered a hybrid breed. Bengals are not typically included in lists that exclude exotic or big cat breeds due to the fact that they are smaller, are accepted by several other organizations as a pure breed, and are bred consistently past three generations (the first three generations look and act the wildest). Licensing requirements for Bengal cats were removed in the United Kingdom in 2007.\nWhile there were previous attempts at breeding hybrids between African leopard cats (ALC) and domestic cats, the Bengal cat hybrids are credited to Jean Sudgen Mill in the 1970s. She acquired hybrids from Dr. Willard Centerwall who was breeding them at Loyola University to study their genetics. She bred the hybrids with domestic cats to produce a breed that had the personality of a domestic cat and an exotic look. Greg and Elizabeth Kent crossed African leopard cats with Egyptian maus to develop a line of Bengal cats as well.\nHybrids are denoted by the generations they are away from their wild ancestry, with F1 denoting the first generation, which has one African leopard cat parent. F2 would have one ALC grandparent, and F3 would have one ALC great-grandparent. It is thought that by F3 the cats have the temperaments of domestic cats. To be shown, the International Cat Association (TICA) accepts only cats of F4 or further generations removed from having an ALC ancestor. Today, most Bengal cats are bred from other Bengal cats.\nBengals are best-loved for their wild-looking markings. Rosettes, marbling, spots, and stripes make up the leopard patterns that varying Bengals display but their official markings are only considered either spotted or marbled. The patterns are always outlined in black, chocolate, or grey/silver. The coat colors are called brown tabby (most common), seal sepia tabby, seal mink tabby, seal lynx point, black silver tabby, seal silver sepia tabby, seal silver mink tabby, and seal silver lynx point. All shades of brown to black make up the markings and the brown tabbies typically have white background fur on their whisker pads, chin, chest, abdomen, and inner legs."
+        },
+        {
+            "name": "Bengal Cat Care",
+            "text": "As most Bengal cats today are several generations removed from the African leopard cat, they require no special care. They are simply larger 'house cats.' You should groom your cat with weekly combing to remove the dead hair and help prevent hairballs. Trim your cat's nails every couple of weeks and provide a scratching post. Provide a clean and fresh litter box as any cat is bound to start refusing to use a dirty, smelly one.\nBengal cats are active and you should provide a climbing tree and opportunities for your cat to find a perch to survey the room. Provide interactive toys to engage your cat. Spend time playing together; you can train your cat to fetch and 'catch the laser dot.'\nBengal cats are known to love water, a trait that most house cats do not possess. You may have to be careful that your aquarium does not become a fishing pond.\nAs with any cat, a Bengal cat is best kept as an indoors-only cat. That protects them from catching diseases from other animals, getting into fights, being attacked by predators, or being hit by vehicles.\nThis breed should get along well with dogs and other cats. However, if you have gerbils, hamsters, or guinea pigs you may find them being stalked by your cat. It is best to keep cats separate from their natural prey."
+        },
+        {
+            "name": "Health and Wellbeing",
+            "text": "Your Bengal cat will need all of the same immunizations and preventative health treatments as a domestic cat. They are not immune to feline leukemia virus as their ALC ancestor is. Purebred cat breeds are more prone to genetic diseases than mixed breed domestic cats due to the fact that the gene population that they come from is smaller.\n Some of the conditions they can be prone to include:\nAutosomal recessive disorder, which causes early blindness in young cats.\nEntropian (the rolling in of the eyelids)\nFeline infectious peritonitis, a deadly disease that results from infection by the coronavirus."
+        }
+    ],
+    "extra": {
+        "name": "More Cat Breeds and Further Research",
+        "text": "Before bringing any cat home, it's important to do your research and ensure the breed is a fit for your family.\nIf you're interested in similar breeds, check out these felines:",
+        "cat": [
+            "norwegian", 
+            "russian", 
+            "ragdoll"
+        ]
+    }
 }

@@ -2,5 +2,88 @@
     "key": "angora",
     "uri": "turkish-angora",
     "name": "Turkish Angora",
-    "extract": "Turkish Angoras are one of the ancient, natural breeds of cat, having originated in central Turkey, in the Ankara region. Documented as early as the 17th century and is believed to be the origin of the mutations for both the color white and long hair."
+    "extract": "Turkish Angoras are one of the ancient, natural breeds of cat, having originated in central Turkey, in the Ankara region. Documented as early as the 17th century and is believed to be the origin of the mutations for both the color white and long hair.",
+    "attribute": [
+        {
+            "name": "Weight",
+            "text": "Between 5 and 9 pounds"
+        },
+        {
+            "name": "Height",
+            "text": "Between 12 and 18 inches"
+        },
+        {
+            "name": "Coat" ,
+            "text": "A long, siljy, single coat that has a sheen"
+        },
+        {
+            "name": "Coat Colours",
+            "text": "White with lavender, chocolate, or Himalayan, Tabby, or Calico variations"
+        },
+        {
+            "name": "Eye Colour",
+            "text": "Light blue, sapphire, emerald, green-gold, gold, amber, copper, or two different colours completely"
+        },
+        {
+            "name": "Life Expectancy",
+            "text": "13 years or longer"
+        }
+    ],
+    "trait": [
+        {
+            "name": "Affection Level",
+            "text": "Medium to high"
+        },
+        {
+            "name": "Friendliness",
+            "text": "Medium to high"
+        },
+        {
+            "name": "Energy level",
+            "text": "High"
+        },
+        {
+            "name": "Playfulness",
+            "text": "Medium"
+        },
+        {
+            "name": "Intelligence",
+            "text": "High"
+        },
+        {
+            "name": "Tentency to Vocalise",
+            "text": "Low"
+        },
+        {
+            "name": "Amount of Shedding",
+            "text": "Low"
+        }
+    ],
+    "article": [
+        {
+            "name": "The Breed",
+            "text": "Known for their long, delicate, ballerina-like bodies and softy, silky fur, Turkish Angoras are considered treasures in their homeland of Turkey. Despite their delicate appearance, however, Turkish Angoras are playful cats that can be affectionate with their owners, and friendly with children or other pets—but she'll let those other pets know who's boss.\nA natural breed that originated in Turkey as early as the 15th century, Turkish Angoras were long-thought to be only white cats with blue or green eyes. And—for many years—all long-haired cats were referred to as Angoras. Today, however, it's widely accepted that Turkish Angoras can come in a variety of colors and variations, including Himalayan, Calico, Tortoiseshell, and Tabby.\nA Turkish Angora can thrive in most home types, but does best in a home with lots of love and attention. Compared to other cats, the Turkish Angora is somewhat needy, and doesn't like to be left alone. Turkish Angoras also have higher energy levels, and can get into mischief if she becomes bored. Think: Opening cabinets, turning on faucets, or knocking things off of surfaces."
+        },
+        {
+            "name": "History",
+            "text": "Unlike many man-made cat breeds, the Turkish Angora is a naturally occurring breed that originated in Turkey sometime during the 15th century. No one knows the exact origins, but it's believed that they originated from the African wildcat, and their long, silky hair is the result of a spontaneous mutation. Others believe Turkish Angoras developed their longer coats as protection against harsh, snowy climates in Ankara (formerly Angora).\nDespite these origin stories, legend says Turkish Angoras may have originated even earlier: It's believed that Mohammad (the founder of the Islamic faith) adored cats, and once cut off his sleeve to avoid disrupting the Turkish Angora sleeping in his arms.\nTurkish Angoras were exhibited at some of the first cat shows in the late 19th century, and Persian breeds began to incorporate them into their breeding programs. This, unfortunately, caused Turkish Angora populations to dwindle throughout Europe. In response, Turkish Angoras became the treasures of Turkey, and a breeding program was established at the Ankara Zoo to preserve them."
+        },
+        {
+            "name": "Turkish Angora Care",
+            "text": "Despite the Turkish Angora's delicate, luxurious appearance, grooming is relatively simple. Because Turkish Angoras have a single coat, they're far less prone to tangles and matting. Simply brush your cat's coat once per week to remove debris, and bathe as needed. Those with light colored Turkish Angoras may find they have to bathe their cats more frequently. Fortunately, many Turkish Angoras love water—and are natural swimmers!—so bath time may not be as challenging as you'd imagine.\nBecause the Turkish Angora has higher energy levels, you should plan to exercise your cat for 15 to 30 minutes each day. Playing with cat toys is a fun, easy way to help your Turkish Angora expend some energy.\nKeeping your Turkish Angora indoors at all times is highly recommended. Allowing him to venture outdoors puts them at risk of becoming lost, stolen, or injured."
+        },
+        {
+            "name": "Health and Wellbeing",
+            "text": "The Turkish Angora is a generally healthy cat, but—like all breeds—may be susceptible to certain health conditions. It's important to note that many white cats with one or two blue eyes are prone to deafness in one or both ears.\nSome other health issues commonly seen in Turkish Angoras include Hypertrophic cardiomyopathy (HCM) - an hereditary heart defect - and Ataxia - a fatal, neuromuscular disorder that affects kittens aged two to four weeks. Screening has greatly reduced the instances of ataxia."
+        }
+    ],
+    "extra": {
+        "name": "More Cat Breeds and Further Research",
+        "text": "Before bringing any cat home, it's important to do your research and ensure the breed is a fit for your family.\nIf you're interested in similar breeds, check out these felines:",
+        "cat": [
+            "ragdoll", 
+            "bengal", 
+            "singapura"
+        ]
+    }
 }

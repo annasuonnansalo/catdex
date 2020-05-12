@@ -2,5 +2,89 @@
     "key": "sphynx",
     "uri": "sphynx",
     "name":"Sphynx",
-    "extract":"The Sphynx cats are known for their lack of coat. Hairlessness in cats is a naturally-occurring genetic mutation, however the Sphynx breed was developed through selective breeding, starting in the 1960s"
+    "extract":"The Sphynx cats are known for their lack of coat. Hairlessness in cats is a naturally-occurring genetic mutation, however the Sphynx breed was developed through selective breeding, starting in the 1960s",
+    "attribute": [
+        {
+            "name": "Weight",
+            "text": "Between 6 and 12 pounds"
+        },
+        {
+            "name": "Lenght",
+            "text": "Between 13 and 15 inches, head to tail"
+        },
+        {
+            "name": "Coat" ,
+            "text": "Hairless"
+        },
+        {
+            "name": "Coat Colours",
+            "text": "White, black, red, chocolate, lavender, tabby, tortoiseshell, calico, pointed and mink"
+        },
+        {
+            "name": "Eye Colour",
+            "text": "Varies"
+        },
+        {
+            "name": "Life Expectancy",
+            "text": "9 to 15 years"
+        }
+    ],
+    "trait": [
+        {
+            "name": "Affection Level",
+            "text": "High"
+        },
+        {
+            "name": "Friendliness",
+            "text": "High"
+        },
+        {
+            "name": "Energy level",
+            "text": "High"
+        },
+        {
+            "name": "Playfulness",
+            "text": "High"
+        },
+        {
+            "name": "Intelligence",
+            "text": "High"
+        },
+        {
+            "name": "Tentency to Vocalise",
+            "text": "High"
+        },
+        {
+            "name": "Exercise Needs",
+            "text": "Low"
+        }
+    ],
+    "article": [
+        {
+            "name": "The Breed",
+            "text": "Felines sphynxes were named after the Egyptian legendary sphinx (although, the cat is spelled with a 'y' instead of an 'i') for their sophisticated look and graceful nature. Despite their regal appearance, they are playful and goofy pals sometimes acting more like dogs than cats. They may look like they were pets of the pharoahs, but, in fact, they originally hail from Canada.\nSphynxes stand out among other pets due to their lack of fur or hair—an uncommon occurrence among most mammals. These non-furry felines love to sprawl out in sunspots for warmth whenever possible. They make excellent cuddle buddies and prefer to keep warm under the covers with their owners at night."
+        },
+        {
+            "name": "History",
+            "text": "While the ancient Aztecs bred hairless cats hundreds of years ago, the sphynx cat we know today is actually a Canadian breed originating in Toronto in 1966 from a random genetic mutation leading to hairlessness. Some breeders took a liking to the hairless cat and decided to breed individuals that produced consistently hairless offspring.\nOriginally called the Canadian hairless, the breed made its way to America and experts bred cats with this new-found hairless gene to create hairless sphynx cats. The sphynx cat continues to be a popular pet choice in North America and is gaining popularity in western Europe.\nThe sphynx breed was recognized by The International Cat Association in 2005, the Cat Fanciers Association in 2002, and several independent cat clubs in Europe, though standards for the breed all differ slightly.\nSome purebred feline registries will not recognize the sphynx cat based on the idea that the breed’s hairlessness is a genetic abnormality that could be harmful to individual cats’ health and longevity."
+        },
+        {
+            "name": "Sphynx Cat Care",
+            "text": "Sphynx cats are loyal and full of love for their humans and can often be spotted following them around or snuggling up while wagging their tail. Even though they would almost always rather be cuddling, sphynx cats are natural athletes and playful pals. Though sphynx cats are exceptionally active felines, their exercise needs are low.\nThese cats are happy to entertain themselves for hours at a time, but some might love to have a buddy. If you are away from home for most of the day, you might want to get two sphynx cats. Sphynxes get along with other pets, too, so you can rest easy knowing they will be happy if you have another animal they can snuggle with at home, including dogs.\nSphynx cats love to play, jump, and may even fetch once trained. Social and smart, sphynx cats respond well to positive reinforcement training.\nDespite its hairless appearance, grooming is an important part of sphynx care. Because they have no fur to absorb their body oils, the sphynx cat’s skin must be groomed regularly to maintain a healthy balance of oil and prevent skin problems and oil spots on furniture. You should bathe your sphynx cat at least once a week to remove oil build-up. You will need to scrub in-between their plethora of wrinkles and folds.\nContrary to popular belief, sphynx cats are not completely hypoallergenic. They may look hairless, but these cats are actually covered in a very fine, suede-like coat. Doctors do, however, recommend a sphynx cat as a solution for cat-lovers who are only allergic to animal hair, not dander or oil."
+        },
+        {
+            "name": "Health and Wellbeing",
+            "text": "When bred responsibly, sphynx cats have a generally healthy outlook.\nDue to its hairlessness, Sphynx cats are sensitive to sun exposure as they have no fur to protect their skin from harmful UV rays. Their direct sun exposure should be limited. Just like humans, these cats can get a sunburn if exposed to sunlight for too long. For this reason, sphynxes should remain indoor pets or be monitored closely when outside.\nIn addition to skin issues, some of the conditions they can be prone to include:\nHypertrophic cardiomyopathy, a common heart disease that causes thickening of the heart muscle. Periodontal disease or gum disorders. Hereditary myopathy, a generalized muscle weakness.\nTo prevent skin and gum health problems, sphynx cats should be groomed regularly. Weekly baths and tooth brushing will do wonders to prevent sphynx cat health problems."
+        }
+    ],
+    "extra": {
+        "name": "More Cat Breeds and Further Research",
+        "text": "Before bringing any cat home, it's important to do your research and ensure the breed is a fit for your family.\nIf you're interested in similar breeds, check out these felines:",
+        "cat": [
+            "siamese", 
+            "bengal", 
+            "singapura"
+        ]
+    }
 }
+

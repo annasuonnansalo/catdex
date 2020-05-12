@@ -2,5 +2,89 @@
     "key": "siamese",
     "uri": "siamese",
     "name":"Siamese",
-    "extract":"The Siamese cat is one of the first distinctly recognized breeds of Asian cat. Derived from the Wichianmat landrace, one of several varieties of cat native to China."
+    "extract":"The Siamese cat is one of the first distinctly recognized breeds of Asian cat. Derived from the Wichianmat landrace, one of several varieties of cat native to China.",
+    "attribute": [
+        {
+            "name": "Weight",
+            "text": "Between 6 and 14 pounds"
+        },
+        {
+            "name": "Lenght",
+            "text": "Up to 14 inches"
+        },
+        {
+            "name": "Coat" ,
+            "text": "Short"
+        },
+        {
+            "name": "Coat Colours",
+            "text": "Seal, chocolate, blue, and lilac"
+        },
+        {
+            "name": "Eye Colour",
+            "text": "Blue"
+        },
+        {
+            "name": "Life Expectancy",
+            "text": "8 to 12 years"
+        }
+    ],
+    "trait": [
+        {
+            "name": "Affection Level",
+            "text": "High"
+        },
+        {
+            "name": "Friendliness",
+            "text": "High"
+        },
+        {
+            "name": "Energy level",
+            "text": "High"
+        },
+        {
+            "name": "Playfulness",
+            "text": "High"
+        },
+        {
+            "name": "Intelligence",
+            "text": "High"
+        },
+        {
+            "name": "Tentency to Vocalise",
+            "text": "High"
+        },
+        {
+            "name": "Exercise Needs",
+            "text": "High"
+        }
+    ],
+    "article": [
+        {
+            "name": "The Breed",
+            "text": "Siamese cats come from Thailand. In 1880, the king of Siam gave two pairs of Siamese cats to the English consul-general in Bangkok; he brought them home to England, and they became the talk of the town. Their popularity zoomed rapidly, as people sought to own one of these beautiful 'Oriental' cats. The first Siamese to win a champion title was Wankee in 1898, and the breed developed rapidly thereafter.\nWhether Siamese breeders followed the judges in official Siamese show rings or vice-versa, is not clear, but for one reason or another, the Siamese cat gradually attained a slimmer look, with a more wedge-shaped head. This modern breed of Siamese more closely resembled the original Egyptian cats, as history depicts them.\nIn 1987, a group of Siamese breeders, distressed with the extreme changes in the appearance of the modern breed, and concerned with potential health problems, banded together to form the Traditional and Classic Cat International registry. One of the goals of the organization was to 'bring back and maintain the 'Old Style' look of each breed.'\nPeople are often confused about the terms 'traditional' and 'classic' as it refers to Siamese cats. The founder of The Traditional Siamese Cat Association, Sheelagh Le Cocq, explains that the classic Siamese is sort of a cross between the traditional and modern versions, without the extremes of either. She describes the classical age as being between 1945 and 1970.\nFamous depictions of Siamese cats come from Si and Am in 'Lady and the Tramp', featured in the song, 'We Are Siamese If You Please', sung by Peggy Lee for the animated Disney movie. A Siamese was the title star of 'That Darn Cat!'"
+        },
+        {
+            "name": "History",
+            "text": "Siamese cats come from Thailand. In 1880, the king of Siam gave two pairs of Siamese cats to the English consul-general in Bangkok; he brought them home to England, and they became the talk of the town. Their popularity zoomed rapidly, as people sought to own one of these beautiful 'Oriental' cats. The first Siamese to win a champion title was Wankee in 1898, and the breed developed rapidly thereafter.\nWhether Siamese breeders followed the judges in official Siamese show rings or vice-versa, is not clear, but for one reason or another, the Siamese cat gradually attained a slimmer look, with a more wedge-shaped head. This modern breed of Siamese more closely resembled the original Egyptian cats, as history depicts them.\nIn 1987, a group of Siamese breeders, distressed with the extreme changes in the appearance of the modern breed, and concerned with potential health problems, banded together to form the Traditional and Classic Cat International registry. One of the goals of the organization was to 'bring back and maintain the 'Old Style' look of each breed.'\nPeople are often confused about the terms 'traditional' and 'classic' as it refers to Siamese cats. The founder of The Traditional Siamese Cat Association, Sheelagh Le Cocq, explains that the classic Siamese is sort of a cross between the traditional and modern versions, without the extremes of either. She describes the classical age as being between 1945 and 1970.\nFamous depictions of Siamese cats come from Si and Am in 'Lady and the Tramp,' featured in the song, 'We Are Siamese If You Please,' sung by Peggy Lee for the animated Disney movie. A Siamese was the title star of 'That Darn Cat!'"
+        },
+        {
+            "name": "Siamese Cat Care",
+            "text": "The Siamese cat has a short coat that needs only standard care. Give your cat a good brushing weekly to lessen the risk of hairballs. Their distinctive point pattern comes from recessive genes that result in producing the dark pigment melatonin only in cooler areas of the skin. This is why you see the darker color on the legs and ears, as well as the face where the skin is cooled during breathing.\nYour cat's claws may need regular trimming every 10 to 14 days. Provide a scratching post to save your upholstery and woodwork. Pay attention to dental hygiene, start your cat with regular toothbrushing at an early age, and schedule regular dental cleanings by a veterinarian.\nSiamese cats have a distinctive personality that is active, playful, and curious, but also trainable. They like to climb and should have a cat tree or other structure to give them this outlet. They also like puzzle toys and teaser toys to chase. You do not want this cat to get bored when you are away from home, or you may return to find it has been up to some mischief for entertainment.\nSiamese are anything but reserved around humans. They bond to humans much like a dog does and will follow you around the house, seeking attention. You will find your cat in your lap as soon as you sit down. They want constant interaction and will get depressed if you leave them alone for long. As such, they are best in a household where you are at home more of the day.\nSiamese are one of the most vocal cat breeds. You will find they will chat with you often, chiding you if you aren't paying attention, and talking to you as if you can understand their language."
+        },
+        {
+            "name": "Health and Wellbeing",
+            "text": "The most prevalent health concern for Siamese cats is an eye condition. Cross-eyed Siamese were common decades ago; the same gene the gave them colored points also resulted in faulty vision wiring in the brain. The tendency for crossed eyes was mostly bred out, but it still means that Siamese have less-acute vision than other cats and they are at more at risk of being hit by vehicles when outside after dark.\nThe other main health problems that this breed is prone to include: Respiratory disease - Siamese cats with wedge-shaped heads are more predisposed to respiratory problems, including asthma and bronchial disease. Liver problems due to amyloidosis, which is caused by an abnormal protein that is deposited in the body's organs. Renal amyloidosis, the buildup of the same abnormal protein in the kidneys, which can disrupt normal kidney function. Congenital heart defects, such as hypertrophic cardiomyopathy, a common cat heart condition that can lead to heart failure."
+        }
+    ],
+    "extra": {
+        "name": "More Cat Breeds and Further Research",
+        "text": "Before bringing any cat home, it's important to do your research and ensure the breed is a fit for your family.\nIf you're interested in similar breeds, check out these felines:",
+        "cat": [
+            "norwegian", 
+            "russian", 
+            "ragdoll"
+        ]
+    }
 }
+

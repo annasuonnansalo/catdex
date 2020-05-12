@@ -2,5 +2,89 @@
     "key": "singapura",
     "uri": "singapura",
     "name":"Singapura",
-    "extract":"The Singapura is one of the smallest breeds of cats, noted for its large eyes and ears, brown ticked coat, and blunt tail."
-}
+    "extract":"The Singapura is one of the smallest breeds of cats, noted for its large eyes and ears, brown ticked coat, and blunt tail.",
+   "attribute": [
+            {
+                "name": "Weight",
+                "text": "Between 4 to 8 pounds"
+            },
+            {
+                "name": "Lenght",
+                "text": "9 to 12 inches"
+            },
+            {
+                "name": "Coat" ,
+                "text": "Short and silky"
+            },
+            {
+                "name": "Coat Colours",
+                "text": "Golden ivory with sepia brown ticking on the back and side of legs and dark tip of the tail"
+            },
+            {
+                "name": "Eye Colour",
+                "text": "Green, hazel, yellow and anything in between"
+            },
+            {
+                "name": "Life Expectancy",
+                "text": "9 to 15 years"
+            }
+        ],
+        "trait": [
+            {
+                "name": "Affection Level",
+                "text": "High"
+            },
+            {
+                "name": "Friendliness",
+                "text": "Medium"
+            },
+            {
+                "name": "Energy level",
+                "text": "High"
+            },
+            {
+                "name": "Playfulness",
+                "text": "High"
+            },
+            {
+                "name": "Intelligence",
+                "text": "High"
+            },
+            {
+                "name": "Tentency to Vocalise",
+                "text": "High"
+            },
+            {
+                "name": "Exercise Needs",
+                "text": "Medium"
+            }
+        ],
+        "article": [
+            {
+                "name": "The Breed",
+                "text": "The Singapura is one of the smallest breeds around and they were originally 'street cats' found in Singapore. They boast having extremely large, green eyes which adds to their endearing albeit mischievous appearance. They are delicate little cats that have found their way into the hearts and homes of many people not only because they are so adorable looking, but also because they boast such alert, active and loving natures which makes it a joy to share a home with them."
+            },
+            {
+                "name": "History",
+                "text": "The Singapura is native to Singapore and it is thought that all the cats seen in the West today are the descendants of six cats that were found in the Loyang area of Singapore by Tommy and Hal Meadows during the 1970s. However, some people believe the breed is a result of crossbreeding Abyssinians and the Burmese which then created the Singapura and they were imported to Singapore.\nIt was not long before people started to notice these charming little cats and interest in the breed increased throughout America during the eighties. In 1988, a British breeder by the name of Carole Thompson imported the first Singapura cat into the UK. The cat was a pregnant female named Imago's Faye Raye of Usaf. The breed was given full Championship status by the GCCF in 2005 and today these charming little cats have become popular not only in the UK, but elsewhere in the world thanks to their adorable size, their playful albeit mischievous natures and their loving personalities."
+            },
+            {
+                "name": "Singapura Cat Care",
+                "text": "As with any other breed, Singapuras need to be groomed on a regular basis to make sure their coats and skin are kept in top condition. On top of this, cats need to be fed good quality food that meets all their nutritional needs throughout their lives which is especially true of kittens and older cats.\nSingapuras boast having short, close lying, dense extremely glossy coats and as such they are low maintenance on the grooming front. A weekly brush and wipe over with a chamois leather is all it takes to keep their coats in good condition with a nice sheen on it. Like other breeds, they tend to shed the most in the Spring and then again in the Autumn when more frequent brushing is usually necessary to keep on top of things.\nIt's also important to check a cat's ears on a regular basis and to clean them when necessary. If too much wax is allowed to build up, it can lead to a painful infection which can be hard to clear up. In short, prevention is often easier than cure with ear infections. Cats often suffer from ear mites which can be a real problem which is why it's so important to check their ears on a regular basis."
+            },
+            {
+                "name": "Health and Wellbeing",
+                "text": "The average life expectancy of a Singapura is between 9 and 15 years when properly cared for and fed an appropriate, good quality diet to suit their ages.\nThe Singapura is known to be a robust little cat. However, they are known to suffer from a couple of hereditary health issues which are worth knowing about if you are planning share your home with one of these small, highly intelligent cats. The conditions that seem to affect the breed the most include the following:\nProgressive retinal atrophy (PRA) - breeders should have stud cats tested.\nPyruvate kinase deficiency (PK) - breeders should have stud cats tested.\nBurmese Hypokalaemia - test available"
+            }
+        ],
+        "extra": {
+            "name": "More Cat Breeds and Further Research",
+            "text": "Before bringing any cat home, it's important to do your research and ensure the breed is a fit for your family.\nIf you're interested in similar breeds, check out these felines:",
+            "cat": [
+                "norwegian", 
+                "russian", 
+                "ragdoll"
+            ]
+        }
+    }
+    
